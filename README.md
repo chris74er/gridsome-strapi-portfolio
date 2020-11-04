@@ -1,4 +1,4 @@
-# Strapi Starter Gridsome Portfolio
+# Gridsome Strapi Portfolio Test
 
 Gridsome starter for creating a corporate site with Strapi.
 
